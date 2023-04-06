@@ -65,6 +65,10 @@ plt.axis('off')
 plt.imshow(sheared_img)
 plt.show()
 ```
+</br>
+</br>
+</br>
+
 ### iv)Image Reflection
 ```py
 M_x=np.float32([[1,0,0],
@@ -112,29 +116,46 @@ plt.imshow(cropped_img)
 plt.show()
 ```
 ## Output:
-### i)Image Translation
+### Original Image
+<img width="600" src="https://user-images.githubusercontent.com/93427237/230407148-56296213-b9cf-4a7b-8812-8e7d8edb17a4.png">
 
+### i)Image Translation
+<img width="600" src="https://user-images.githubusercontent.com/93427237/230405553-bdbf48f9-2914-4a2d-ae8e-4691ad7a0401.png">
+
+</br>
+</br>
+</br>
 
 ### ii) Image Scaling
-
-
+<img width="600" src="https://user-images.githubusercontent.com/93427237/230405581-d744e036-06d4-437a-8177-e348ae1f217c.png">
 
 ### iii)Image shearing
+<img width="600" src="https://user-images.githubusercontent.com/93427237/230405598-5537f03b-f9a8-43c8-b367-eb51b3ca1875.png">
 
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ### iv)Image Reflection
+<img width="600" src="https://user-images.githubusercontent.com/93427237/230406107-741bb81d-dae6-4784-a99c-da12e2ae8765.png">
+<img width="600" src="https://user-images.githubusercontent.com/93427237/230406086-405f6ffe-6b75-4c50-be77-43b38a9bf346.png">
 
-
-
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ### v)Image Rotation
-
-
-
+<img width="600" src="https://user-images.githubusercontent.com/93427237/230405730-26b893d6-80e4-4162-9f6d-7695d5470593.png">
 
 ### vi)Image Cropping
-
+<img width="600" src="https://user-images.githubusercontent.com/93427237/230405762-ab9abe3e-d33d-43b0-8626-3a89fadac87d.png">
 
 ## Result: 
-
 Thus the different image transformations such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping are done using OpenCV and python programming.
